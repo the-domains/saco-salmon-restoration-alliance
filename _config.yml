@@ -1,0 +1,28 @@
+name: Saco Salmon Restoration Alliance
+favicon: null
+layout_spectrum: 0.5969347234349698
+typography_spectrum: 0.6605786350555718
+cta:
+  domain: null
+  bucket: null
+  version: null
+analytics:
+  google: null
+  facebook: null
+  twitter: null
+opengraph:
+  image: null
+  type: null
+  appId: null
+color:
+  brandColors:
+    - '#FF6700'
+    - '#EBEBEB'
+    - '#C0C0C0'
+    - '#3A6EA5'
+    - '#004E98'
+  brandStrength: 0.7298290652688593
+  lightness: 0.32905536121688783
+  saturation: 0.7610558671876788
+  rhythmicContrast: 0.7102175315376371
+purpose: []
